@@ -26,7 +26,7 @@ const Projects = () => {
                 <Image
                   alt="Retro Phone Selling E-Commerce"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src="/projy1.png"
+                  src="/projy1.PNG"
                   layout="fill"
                   objectFit="cover"
                 />
@@ -53,7 +53,7 @@ const Projects = () => {
                 <Image
                   alt="Product alongside Welfare-Based E-Commerce"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src="/projy2.png"
+                  src="/projy2.PNG"
                   layout="fill"
                   objectFit="cover"
                 />
@@ -80,7 +80,7 @@ const Projects = () => {
                 <Image
                   alt="Horror Movie-Based Platform"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src="/projy3.png"
+                  src="/projy3.PNG"
                   layout="fill"
                   objectFit="cover"
                 />
